@@ -1,8 +1,8 @@
 ### todo-list by :point_right:REACT
 
 >Folder Structure
-  _resources
-  _todo-list
+  _ resources
+  _ todo-list
 
 
 <img width="299" alt="todo-successful message" src="https://github.com/user-attachments/assets/d0c74efb-7cdb-47a6-9fa4-1c6845735eda">
