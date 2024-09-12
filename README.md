@@ -3,6 +3,9 @@
 >Folder Structure
  - resources
  - todo-list
+   - src
+     - App.jsx
+     - App.css  
 
 
 <img width="299" alt="todo-successful message" src="https://github.com/user-attachments/assets/d0c74efb-7cdb-47a6-9fa4-1c6845735eda">
