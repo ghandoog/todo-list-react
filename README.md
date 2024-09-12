@@ -1,6 +1,6 @@
-###todo-list by :point_right:REACT
+### todo-list by :point_right:REACT
 
-> Folder Structure
+>Folder Structure
   _resources
   _todo-list
 
